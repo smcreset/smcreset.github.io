@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Christian, a husband, a nerd, and a neurotic over-thinker.  I'm a little (a lot) rough around the edges, but I'm trying.  I have a lot of thoughts on a lot of things, and this website is where you'll hear them.
+I'm a Christian, a husband, a nerd, and a neurotic over-thinker.  I'm a little (a lot) rough around the edges, but I'm trying.
 
 ### Random Stats
   -I have a dog  
